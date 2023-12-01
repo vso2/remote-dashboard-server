@@ -16,4 +16,4 @@ It will initialize a shell session.
 
 ## Troubleshooting
 
-If the api don't start the bash session, go to shell/shell.js and change PATH to the right path to bash in your machine.
+If the api doesn't start the bash session, go to shell/shell.js and change PATH to the right path to bash in your machine.
